@@ -4,3 +4,7 @@ __pycache__/
 *.sqlite3
 *.pyc
 env.py
+*.png
+*.jpg
+static/
+media/
