@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SUPER_SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [os.environ.get('IP')]
+ALLOWED_HOSTS = [os.environ.get('IP'), 'mcrowley-ecommerce-app-django.herokuapp.com']
 
 
 # Application definition
