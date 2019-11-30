@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Mcrowley93/ecommerce_app_django.svg?branch=master)](https://travis-ci.org/Mcrowley93/ecommerce_app_django)
